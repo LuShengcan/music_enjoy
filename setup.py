@@ -7,7 +7,7 @@ URL = 'https://github.com/LuShengcan'
 AUTHOR_EMAIL = 'shengcan_lu@foxmail.com'
 AUTHOR = 'LuShengcan'
 REQUIRES_PYTHON = '>=3.8.0'
-VERSION = '0.0.10'
+VERSION = '0.0.11'
 
 # What packages are required for this module to be executed?
 REQUIRED = ['requests', 'bs4', 'lxml']

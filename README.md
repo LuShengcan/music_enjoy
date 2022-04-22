@@ -18,8 +18,10 @@
 
 ### 包安装
 
+- 国内清华源
+
 ```shell
-pip install music_enjoy
+pip install music_enjoy -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 
