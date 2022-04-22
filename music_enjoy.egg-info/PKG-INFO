@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: music-enjoy
+Version: 0.0.10
+Summary: A spider to get paid music by LuShengcan.
+Home-page: https://github.com/LuShengcan
+Author: LuShengcan
+Author-email: shengcan_lu@foxmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8.0
